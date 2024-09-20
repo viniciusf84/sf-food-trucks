@@ -1,0 +1,17 @@
+:root {
+  /* CSS HEX */
+  --platinum: #cfdbd5ff;
+  --alabaster: #e8eddfff;
+  --saffron: #f5cb5cff;
+  --xanthous: #f0b719;
+  --eerie-black: #242423ff;
+  --jet: #333533ff;
+
+  /* MAIN VARIABLES */
+  --primary: var(--saffron);
+  --primary-light: var(--xanthous);
+  --secondary: var(--platinum);
+  --background: var(--jet);
+  --black: var(--eerie-black);
+  --white: var(--alabaster);
+}
